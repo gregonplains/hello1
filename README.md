@@ -1,9 +1,17 @@
 # hello1
-the command used to create this repository from the command line was:
+the two commands used to create this repository from the command line was:
+
 gregory@gregory-VirtualBox:~/work/src/github.com/gregonplains/hello1$ git remote add origin https://github.com/gregonplains/hello1.git
+
 gregory@gregory-VirtualBox:~/work/src/github.com/gregonplains/hello1$ git push -u origin master
+
+The system then prompts for the following information: 
+
 Username for 'https://github.com': gregonplains
+
 Password for 'https://gregonplains@github.com': 
+
+
 Counting objects: 3, done.
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (3/3), 291 bytes | 0 bytes/s, done.
